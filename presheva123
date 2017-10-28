@@ -1,0 +1,1882 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Rai1.it" group-title="Skyit",IT: Rai 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/693.ts
+#EXTINF:0 tvg-id="Rai2.it" group-title="Skyit",IT: Rai 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/692.ts
+#EXTINF:0 tvg-id="Rai3.it" group-title="Skyit",IT: Rai 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/691.ts
+#EXTINF:0 tvg-id="Rai4.it" group-title="Skyit",IT: Rai 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/690.ts
+#EXTINF:0 tvg-id="Rai5.it" group-title="Skyit",IT: Rai 5 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/563.ts
+#EXTINF:0 tvg-id="RaiYoyo.it" group-title="Skyit",IT: Rai yoyo
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/553.ts
+#EXTINF:0 tvg-id="RaiGulp.it" group-title="Skyit",IT: Rai Gulp
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/552.ts
+#EXTINF:0 tvg-id="RaiMovie.it" group-title="Skyit",IT: Rai Movie
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/584.ts
+#EXTINF:0 tvg-id="RaiPremium.it" group-title="Skyit",IT: Rai Premium
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/583.ts
+#EXTINF:0 tvg-id="RaiNews.it" group-title="Skyit",IT: Rai News 24
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/689.ts
+#EXTINF:0 tvg-id="Rete4.it" group-title="Skyit",IT: Rete 4
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1848.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: RSI La1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/688.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: RSI La2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/687.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: History alb
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1873.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Telearena
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/561.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Telepavia
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1843.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Trentino TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1842.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: TeleTicino
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1869.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Canale 10
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/565.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: TG2000
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/564.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Orler
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1871.ts
+#EXTINF:0 tvg-id="Super!.it" group-title="Skyit",IT: Super TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1870.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Aslive3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/555.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: videocalabria
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/569.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Tele 8
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1845.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: RTV San Marino
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1841.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Euroneww Italia
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1844.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Canale 7
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1846.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: TVM 1 Dvr
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/571.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: TVM 2 Dvr
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/570.ts
+#EXTINF:0 tvg-id="Cartoonito.it" group-title="Skyit",IT: Cartoonito
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/554.ts
+#EXTINF:0 tvg-id="Italia1.it" group-title="Skyit",IT: Italia 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/685.ts
+#EXTINF:0 tvg-id="Canale5.it" group-title="Skyit",IT: Canale 5 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/686.ts
+#EXTINF:0 tvg-id="RealTime.it" group-title="Skyit",IT: Real Time
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/684.ts
+#EXTINF:0 tvg-id="DMAX.it" group-title="Skyit",IT: Dmax
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/657.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Telerama
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/585.ts
+#EXTINF:0 tvg-id="LA5.it" group-title="Skyit",IT: La 5
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/556.ts
+#EXTINF:0 tvg-id="La7.it" group-title="Skyit",IT: La7
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/683.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",---------- Cinma ----------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/682.ts
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Skyit",IT: Sky Cinema 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/681.ts
+#EXTINF:0 tvg-id="SkyCinemaPlus1.it" group-title="Skyit",IT: Sky Cinema +1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/680.ts
+#EXTINF:0 tvg-id="SkyCinema24.it" group-title="Skyit",IT: Sky Cinema +24 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/679.ts
+#EXTINF:0 tvg-id="SkyCinemaHits.it" group-title="Skyit",IT: Sky Cinema Hits HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/675.ts
+#EXTINF:0 tvg-id="SkyCinemaCult.it" group-title="Skyit",IT: Sky Cinema Cult HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/672.ts
+#EXTINF:0 tvg-id="SkyCinemaMax.it" group-title="Skyit",IT: Sky Cinema Max HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/677.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Cinema +Max HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/673.ts
+#EXTINF:0 tvg-id="SkyCinemaPassionHD.it" group-title="Skyit",IT: Sky Cinema Passion HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/678.ts
+#EXTINF:0 tvg-id="SkyCinemaComedyHD.it" group-title="Skyit",IT: Sky Cinema Comedy HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/671.ts
+#EXTINF:0 tvg-id="SkyCinemaClassic.it" group-title="Skyit",IT: Sky Cinema Classic HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/670.ts
+#EXTINF:0 tvg-id="SkyCinemaFamily.it" group-title="Skyit",IT: Sky Cinema Family HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/674.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",------ Intrattenimento ----
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/669.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Fm italia
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/663.ts
+#EXTINF:0 tvg-id="MTVMusic.it" group-title="Skyit",IT: Mtv Music
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/668.ts
+#EXTINF:0 tvg-id="Giallo.it" group-title="Skyit",IT: Giallo
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1850.ts
+#EXTINF:0 tvg-id="Cielo.it" group-title="Skyit",IT: Cielo
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/658.ts
+#EXTINF:0 tvg-id="Boing.it" group-title="Skyit",IT: Boing
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/659.ts
+#EXTINF:0 tvg-id="Super!.it" group-title="Skyit",IT: Super!
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/558.ts
+#EXTINF:0 tvg-id="K2.it" group-title="Skyit",IT: k2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/557.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: R italya HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/664.ts
+#EXTINF:0 tvg-id="Iris.it" group-title="Skyit",IT: Iris
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/676.ts
+#EXTINF:0 tvg-id="Alice.it" group-title="Skyit",IT: Alice HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/665.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sat 2000
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/662.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Onda tv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1849.ts
+#EXTINF:0 tvg-id="Tv8.it" group-title="Skyit",IT: TV 8
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1851.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Paramount
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1852.ts
+#EXTINF:0 tvg-id="Frisbee.it" group-title="Skyit",IT: Frisbee
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1857.ts
+#EXTINF:0 tvg-id="FineLiving.it" group-title="Skyit",IT: Fine Living
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1853.ts
+#EXTINF:0 tvg-id="DeejayTV.it" group-title="Skyit",IT: Deejay TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1854.ts
+#EXTINF:0 tvg-id="Classica.it" group-title="Skyit",IT: Classica HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1856.ts
+#EXTINF:0 tvg-id="GamberoRosso.it" group-title="Skyit",IT: Gambero Rosso
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1855.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Pescare Cacciare TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1867.ts
+#EXTINF:0 tvg-id="Telelombardia.it" group-title="Skyit",IT: Telelombardia
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1866.ts
+#EXTINF:0 tvg-id="Nuvolari.it" group-title="Skyit",IT: Nuvolari
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1868.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Top Crime
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/559.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Sienatv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/666.ts
+#EXTINF:0 tvg-id="SKYUno.it" group-title="Skyit",IT: Sky Uno HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/667.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Focus
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/660.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Mediaset Extra
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/603.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Mediaset Italia 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/661.ts
+#EXTINF:0 tvg-id="FoxAnimation.it" group-title="Skyit",IT: Sky Fox Animation HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1865.ts
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Skyit",IT: Sky Fox Comedy HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1864.ts
+#EXTINF:0 tvg-id="FoxCrime.it" group-title="Skyit",IT: Sky Fox Crime HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1863.ts
+#EXTINF:0 tvg-id="FoxLife.it" group-title="Skyit",IT: Sky Fox Life HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1862.ts
+#EXTINF:0 tvg-id="Fox.it" group-title="Skyit",IT: Sky Fox HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1861.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",---------- sport ----------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/656.ts
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Skyit",IT: Sky Fox Sport HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/650.ts
+#EXTINF:0 tvg-id="SKYSport1.it" group-title="Skyit",IT: Sky Sport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/655.ts
+#EXTINF:0 tvg-id="SKYSport2.it" group-title="Skyit",IT: Sky Sport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/654.ts
+#EXTINF:0 tvg-id="SKYSport3.it" group-title="Skyit",IT: Sky Sport 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/653.ts
+#EXTINF:0 tvg-id="SKYSport24.it" group-title="Skyit",IT: Sky Sport 24 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/652.ts
+#EXTINF:0 tvg-id="SkySportF1.it" group-title="Skyit",IT: Sky Sport F1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/651.ts
+#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Skyit",IT: Sky Moto GP HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/646.ts
+#EXTINF:0 tvg-id="SuperTennis.it" group-title="Skyit",IT: Super Tennis HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/645.ts
+#EXTINF:0 tvg-id="RaiSport1.it" group-title="Skyit",IT: Rai Sport 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/639.ts
+#EXTINF:0 tvg-id="RaiSport2.it" group-title="Skyit",IT: Rai Sport 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/560.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: SportTitalia
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/638.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: TSN Sport
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1840.ts
+#EXTINF:0 tvg-id="MilanTV.it" group-title="Skyit",IT: Milan Channel
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1860.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Roma Channel
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/636.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Juventus Channel
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/637.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",---------- Calcio -----------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/644.ts
+#EXTINF:0 tvg-id="SkySupercalcio.it" group-title="Skyit",IT: Sky Supercalcio HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/643.ts
+#EXTINF:0 tvg-id="SkyCalcio1.it" group-title="Skyit",IT: Sky Calcio 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/642.ts
+#EXTINF:0 tvg-id="SkyCalcio2.it" group-title="Skyit",IT: Sky Calcio 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/641.ts
+#EXTINF:0 tvg-id="SkyCalcio3.it" group-title="Skyit",IT: Sky Calcio 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/640.ts
+#EXTINF:0 tvg-id="SkyCalcio4.it" group-title="Skyit",IT: Sky Calcio 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/568.ts
+#EXTINF:0 tvg-id="SkyCalcio5.it" group-title="Skyit",IT: Sky Calcio 5 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/567.ts
+#EXTINF:0 tvg-id="SkyCalcio6.it" group-title="Skyit",IT: Sky Calcio 6 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/566.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",--------- Cultura ----------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/635.ts
+#EXTINF:0 tvg-id="TG24.it" group-title="Skyit",IT: Sky TG 24
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/629.ts
+#EXTINF:0 tvg-id="Discovery.it" group-title="Skyit",IT: Discovery HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/630.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Discovery T&L
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1859.ts
+#EXTINF:0 tvg-id="DiscoverySci.it" group-title="Skyit",IT: Discovery Sci HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1858.ts
+#EXTINF:0 tvg-id="History.it" group-title="Skyit",IT: Sky History HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/634.ts
+#EXTINF:0 tvg-id="NationalGeo.it" group-title="Skyit",IT: National Geo HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/633.ts
+#EXTINF:0 tvg-id="NatGeoWild.it" group-title="Skyit",IT: NatGeo Wild HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/632.ts
+#EXTINF:0 tvg-id="NatGeoPeople.it" group-title="Skyit",IT: NatGeo People HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/631.ts
+#EXTINF:0 tvg-id="AnimalPlanet.it" group-title="Skyit",IT: Sky Animal Planet
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/604.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",----MwdiaEst Premium ----
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/628.ts
+#EXTINF:0 tvg-id="PremiumCinema.it" group-title="Skyit",IT: Premium Cinema HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/627.ts
+#EXTINF:0 tvg-id="PremiumCinema2.it" group-title="Skyit",IT: Premium Cinema 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/609.ts
+#EXTINF:0 tvg-id="PremiumCinemaPlus24.it" group-title="Skyit",IT: Premium Cinema +24
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/612.ts
+#EXTINF:0 tvg-id="PremiumCrime.it" group-title="Skyit",IT: Premium Crime
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/621.ts
+#EXTINF:0 tvg-id="PremiumCrimePlus24.it" group-title="Skyit",IT: Premium Crime +24
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/611.ts
+#EXTINF:0 tvg-id="PremiumAction.it" group-title="Skyit",IT: Premium Action HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/626.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Premium Action +24 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/618.ts
+#EXTINF:0 tvg-id="PremiumStories.it" group-title="Skyit",IT: Premium Stories
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/625.ts
+#EXTINF:0 tvg-id="StoriesPlus24.it" group-title="Skyit",IT: Premium Stories +24
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/614.ts
+#EXTINF:0 tvg-id="PremiumCinemaEnergy.it" group-title="Skyit",IT: Premium Energy
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/623.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Premium Energy +24
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1872.ts
+#EXTINF:0 tvg-id="Joi.it" group-title="Skyit",IT: Premium Joy
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/624.ts
+#EXTINF:0 tvg-id="PremiumCinemaComedy.it" group-title="Skyit",IT: Premium Comedy
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/620.ts
+#EXTINF:0 tvg-id="PremiumCinemaEmotion.it" group-title="Skyit",IT: Premium Emotion
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/622.ts
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Skyit",IT: Premium Studio Universal
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/619.ts
+#EXTINF:0 tvg-id="DisneyJunior.it" group-title="Skyit",IT: Premium Disney Junior
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/617.ts
+#EXTINF:0 tvg-id="DisneyChannel.it" group-title="Skyit",IT: Premium Disney Channel
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/616.ts
+#EXTINF:0 tvg-id="CartoonNetwork.it" group-title="Skyit",IT: Premium Cartoon Network
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/613.ts
+#EXTINF:0 tvg-id="Eurosport1.it" group-title="Skyit",IT: Premium EuroSport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/608.ts
+#EXTINF:0 tvg-id="Eurosport2.it" group-title="Skyit",IT: Premium EuroSport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/610.ts
+#EXTINF:0 tvg-id="PremiumSport.it" group-title="Skyit",IT: Premium Sport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/606.ts
+#EXTINF:0 tvg-id="PremiumSport2.it" group-title="Skyit",IT: Premium Sport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/605.ts
+#EXTINF:0 tvg-id="PremiumSport.it" group-title="Skyit",IT: Premium Sport
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/615.ts
+#EXTINF:0 tvg-id="PremiumSport2.it" group-title="Skyit",IT: Premium Sport 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/562.ts
+#EXTINF:0 tvg-id="PremiumCalcio.it" group-title="Skyit",IT: Premium Calcio HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/607.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",---------- Primrafila ---------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/602.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/601.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/600.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/599.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/598.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 5 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/597.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 6 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/596.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 7 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/595.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 8 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/594.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 9 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/593.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 10 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/592.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 11 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/591.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 12 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/590.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 13 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/589.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 14 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/588.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima fila 15 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/587.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Prima Fila WWE HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/586.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",----------- Sky Uk -----------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/551.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Baby
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1901.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky Boomerang
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1898.ts
+#EXTINF:0 tvg-id="DEAjr.it" group-title="Skyit",IT: Sky DeA Junior
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1899.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyit",IT: Sky DeA Kids
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1900.ts
+#EXTINF:0 tvg-id="SkyAtlantic.it" group-title="Skyit",IT: Sky Atlantic HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1874.ts
+
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Skyuk",UK: Sky News HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/550.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky RTE News
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/431.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BBC News
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/428.ts
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Skyuk",UK: Sky Sports News
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/549.ts
+#EXTINF:0 tvg-id="SkySports1.uk" group-title="Skyuk",UK: Sky Sport 1 SD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/533.ts
+#EXTINF:0 tvg-id="SkySports2.uk" group-title="Skyuk",UK: Sky Sport 2 SD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/532.ts
+#EXTINF:0 tvg-id="SkySports3.uk" group-title="Skyuk",UK: Sky Sport 3 SD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/531.ts
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Skyuk",UK: Sky Sport 4 SD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/530.ts
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Skyuk",UK: Sky Sport 5 SD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/529.ts
+#EXTINF:0 tvg-id="SkySports1.uk" group-title="Skyuk",UK: Sky Sports 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/548.ts
+#EXTINF:0 tvg-id="SkySports2.uk" group-title="Skyuk",UK: Sky Sports 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/547.ts
+#EXTINF:0 tvg-id="SkySports3.uk" group-title="Skyuk",UK: Sky Sports 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/546.ts
+#EXTINF:0 tvg-id="SkySports4.uk" group-title="Skyuk",UK: Sky Sports 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/545.ts
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Skyuk",UK: Sky Sports 5 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/544.ts
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Skyuk",UK: Sky Sports F1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/539.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Sport AU 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/438.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BT Sport 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/543.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BT Sport 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/542.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BT Sport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/528.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BT Sport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/527.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BT Sport 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/453.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BT Sport Extra
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/479.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Eurosport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/541.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Eurosport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/540.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Sports MixHD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/513.ts
+#EXTINF:0 tvg-id="SetantaIrelandSport.uk" group-title="Skyuk",UK: Sky Setanta Sports
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/484.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Liverpool FC TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/536.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Chelsea TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/537.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky MUTV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/535.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",Uk: Sky At the Races
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/461.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Cinema Box Office 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/421.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Cinema Box Office 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/420.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Cinema Box Office 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/419.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Cinema Box Office 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1542.ts
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Skyuk",UK: Sky Movies Premiere HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/519.ts
+#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Skyuk",UK: Sky Movies Disney
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/516.ts
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Skyuk",UK: Sky Movies Select HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/517.ts
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Skyuk",UK: Sky Movies Action HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/511.ts
+#EXTINF:0 tvg-id="SkyBrits.uk" group-title="Skyuk",UK: Sky Movies Greats
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/518.ts
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Skyuk",UK: Sky Movies Family HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/520.ts
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Skyuk",UK: Sky Movies Drama HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/521.ts
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Skyuk",UK: Sky Movies Comedy HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/524.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Home & Health
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1547.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Movies Crime
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/512.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Movies Sci-Fi+
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/515.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Watch
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/523.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky True Movies 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/472.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky True Movies 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/534.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky True Entertaimnt
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1546.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky motorsport.tv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1555.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky More 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/504.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Movies4Men
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1557.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Horse & Country
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1549.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Home
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1553.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Quest
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1551.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Really
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1552.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Travel Channel
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1556.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Horror Channel
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1548.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky S4C
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/435.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky 5 Star +1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/505.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky CBBC HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/430.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky ITV 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/471.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky ITV 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/470.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky ITV 3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/469.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky ITV 4
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/468.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky ITV Be
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/429.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky ITV Encore
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/467.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BBC4/CBEEBIES
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/433.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky 3e
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/432.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky TV3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/434.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky CITV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/436.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Cbs Drama
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/482.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Pick
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/437.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Cbs Action
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/481.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky CBS Reality
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/510.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BBC One HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/488.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BBC Two HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/487.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BBC Three HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/486.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BBC Four HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/485.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Channel 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/426.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Channel 5 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/427.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Comedy Central
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/463.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Comedy Central Ex
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/462.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Food Network
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/495.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Sony Movies
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/501.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Bloomberg HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/457.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Boomerang
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/444.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Cartoon Network
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/522.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Nickelodeon
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/503.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Nickelodeon JR
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/423.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky NickToons
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/446.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Disney XD HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/493.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Disney Junior HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/494.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Disney Chaneel HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/492.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Discovery Science
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/526.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Discovery History
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/491.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Discovery Turbo
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/465.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Discovery Shed
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/445.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Discovery
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/464.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky National Geographic HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/499.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Nat Geo Wild HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/498.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Animal Planet HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/497.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky History HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/496.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky History 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/452.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Ci
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/514.ts
+#EXTINF:0 tvg-id="Sky1.uk" group-title="Skyuk",UK: Sky 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/475.ts
+#EXTINF:0 tvg-id="Sky2.uk" group-title="Skyuk",UK: Sky 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/507.ts
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Skyuk",UK: Sky Atlantic
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/483.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky E!
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/447.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky VH1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/449.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky E4
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/451.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky TG4
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/422.ts
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Skyuk",UK: Sky Syfy
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/538.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky CNBC
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/466.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Dave HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/506.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky RTE One
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/474.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky RTE Two
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/478.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: SKY Fox
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/460.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Five
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/473.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Arts 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/489.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Baby
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/424.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Eden
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/425.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Alibi
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/509.ts
+#EXTINF:0 tvg-id="SkyLiving.uk" group-title="Skyuk",UK: Sky Living HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/502.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky BoxNation
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/490.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Racing
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/458.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Gold
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/508.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky 5 USA
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/480.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky 5 star
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/477.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky life Time
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/476.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Spike
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/525.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky TCM
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/459.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky CNN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/454.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Dmax
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/456.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky TLC
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/455.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky STV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/448.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky MTV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1550.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky MTV Rocks HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/442.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky MTV Hits HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/443.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky MTV Dance HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/441.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky MTV Classic
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/500.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky MTV Base
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/440.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky VIVA the Hits!
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1544.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky 4 Music
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1543.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky VH1 Classic
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/450.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky VIVA the Hits
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/439.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Kronehit TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1545.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",----------- USA -----------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1554.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sport TSN 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1451.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sport TSN 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1452.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sport TSN 3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1453.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sport TSN 4
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1454.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sport TSN 5
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1455.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Skynet Sports HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1476.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Skynet Sports 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1431.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Skynet Sports 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1436.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Skynet Sports 3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1472.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Skynet Sports 4
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1473.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Skynet Sports 5
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1474.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Skynet Sports 6
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1475.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sports NET 360 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1497.ts
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Skyuk",US: FOX Sports 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1502.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sports NET ONE HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1508.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sports NET WORLD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1526.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sports NET ONTARIO
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1503.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sports NET WEST HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1525.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sports Tonight
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1490.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sport Network
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1459.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sport LTVE HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1496.ts
+#EXTINF:0 tvg-id="USANetwork.us" group-title="Skyuk",US: USA Network
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1498.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Espn Sport
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1483.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: BeIN Sports US
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1486.ts
+#EXTINF:0 tvg-id="SpikeHD.us" group-title="Skyuk",US: Spike HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1442.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sports NFL Now HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1434.ts
+#EXTINF:0 tvg-id="NHLNetwork.us" group-title="Skyuk",US: NHL Network HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1429.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Sport Snet Central
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1430.ts
+#EXTINF:0 tvg-id="ShowtimeHDEast.us" group-title="Skyuk",US: ShowTime HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1439.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Showtime US
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1480.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: AFN Prime HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1479.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: AFN Movies HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1477.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: TMN Action
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1471.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Animal Planet+1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1467.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: AFN Pulse
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1468.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: AFN Spectrum
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1469.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: AFN Sports
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1470.ts
+#EXTINF:0 tvg-id="FXHD.us" group-title="Skyuk",US: FX HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1478.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: FOX 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1435.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: E TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1531.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: FOX 30
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1523.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: FOX 23
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1519.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Fox 24 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1509.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Fox Action
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1448.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Fox Action HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1441.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Movie Mello TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1437.ts
+#EXTINF:0 tvg-id="ActionMaxHD.us" group-title="Skyuk",US: Cinemax ActionMax
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1512.ts
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Skyuk",US: HBO Signature
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1517.ts
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="Skyuk",US: NBCSN Golf
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1533.ts
+#EXTINF:0 tvg-id="BETHD.us" group-title="Skyuk",US: Bet HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1481.ts
+#EXTINF:0 tvg-id="WCBSNewYorkCBSHDEast.us" group-title="Skyuk",US: CBS HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1485.ts
+#EXTINF:0 tvg-id="HBOEast.us" group-title="Skyuk",US: HBO 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1433.ts
+#EXTINF:0 tvg-id="Bravo.us" group-title="Skyuk",US: Bravo
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1482.ts
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="Skyuk",US: Starz Edge
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1438.ts
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Skyuk",US: Starz East
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1450.ts
+#EXTINF:0 tvg-id="TBSHD.us" group-title="Skyuk",US: TBS HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1506.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Fight Network
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1457.ts
+#EXTINF:0 tvg-id="BravoHD.us" group-title="Skyuk",US: Bravo HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1507.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: A&E HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1500.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Crime and Investigation
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1511.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Movie Time HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1499.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: RDS2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1505.ts
+#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="Skyuk",US: NBCSN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1456.ts
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Skyuk",US: CBSN HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1462.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: London Live
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1494.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: AFN Sports 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1491.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Starz Encore US
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1524.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: AFN Movie HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1522.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Kiro 7
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1520.ts
+#EXTINF:0 tvg-id="HBOEast.us" group-title="Skyuk",US: HBO East
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1518.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: CBSN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1521.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Famly HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1495.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Ion HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1493.ts
+#EXTINF:0 tvg-id="WillowCricket.us" group-title="Skyuk",US: Willow Cricket
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1492.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: CNN Eng
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1443.ts
+#EXTINF:0 tvg-id="MSNBCHD.us" group-title="Skyuk",US: Msnbc
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1447.ts
+#EXTINF:0 tvg-id="CinemÄx.us" group-title="Skyuk",US: Cinemax
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1461.ts
+#EXTINF:0 tvg-id="AMCHD.us" group-title="Skyuk",US: AMC HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1534.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Life Time HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1460.ts
+#EXTINF:0 tvg-id="CSPAN.us" group-title="Skyuk",US: C-Span 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1487.ts
+#EXTINF:0 tvg-id="CSPAN2.us" group-title="Skyuk",US: C-Span 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1488.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: C-Span 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1489.ts
+#EXTINF:0 tvg-id="ShowtimeExtreme.us" group-title="Skyuk",US: Showtime Extreme
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1539.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: CBC Toronto
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1541.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Comedy Central HD US
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1540.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: ActionMAX US
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1527.ts
+#EXTINF:0 tvg-id="Hallmark.us" group-title="Skyuk",US: Hallmark Channel
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1528.ts
+#EXTINF:0 tvg-id="Velocity.us" group-title="Skyuk",US: Discovery Velocity HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1529.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: CTV Toronto HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1530.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: TWiT TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1535.ts
+#EXTINF:0 tvg-id="HBOFamilyEast.us" group-title="Skyuk",US: HBO Family
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1536.ts
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Skyuk",US: Starz Comedy
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1537.ts
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Skyuk",US: Starz Cinema
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1538.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: W Network HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1532.ts
+#EXTINF:0 tvg-id="BloombergTV.us" group-title="Skyuk",US: Bloomberg
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1464.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Free Rom
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1465.ts
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Skyuk",US: ABC NEWS HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1466.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: A&E Network
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1458.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: AFN Prime Atlantic HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1484.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: Thai CH8
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1463.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: World Fashion TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1432.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: TBS Channle
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1449.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: AFN Sports 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1446.ts
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Skyuk",US: ABC
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1504.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: WGN 9 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1515.ts
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Skyuk",US: FOX Sports 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1516.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: TRT World
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1513.ts
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Skyuk",US: CBS
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1510.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: NBC Live
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1501.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",US: BBC Amrica
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1514.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",--------- Indian -----------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1839.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Sport Arena
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1558.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Sport Football
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1559.ts
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Skyuk",UK: Sky Sports Action
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1560.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Eir Sport 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1566.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Eir Sport 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1567.ts
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Skyuk",UK: Sky Sports Cricket
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1564.ts
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Skyuk",UK: Sky Sports Golf HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1563.ts
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Skyuk",UK: Sky Sports Main Event
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1561.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Sports Premier
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1565.ts
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Skyuk",UK: Sky Sports Premier League
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1562.ts
+#EXTINF:0 tvg-id="ext" group-title="Skyuk",UK: Sky Sports Box Office HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1568.ts
+
+#EXTINF:0 tvg-id="ext" group-title="india",LN: B4U Aflam
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1791.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: B4U Movie
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1792.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: B4U Music
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1793.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Asia TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1794.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: TEN Sports
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1823.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: TEN Sports 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1769.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Willow HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1766.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: MTV India
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1770.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Star Sport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1774.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Star Sport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1775.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Star Sport 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1776.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Star Sport 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1777.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Bangla Cinema
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1784.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Cinema ME HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1782.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE TV HD US
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1781.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Cinema UK
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1780.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Studio HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1783.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Canada
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1760.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Alwan
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1778.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Tamil
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1764.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Aflam
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1779.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Classic
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1752.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Cinema LU HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1812.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Anmol
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1813.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE tv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1815.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE News
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2967.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Zing us
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1819.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: And TV  APAC
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1802.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Star pluse USA HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1753.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Star pluse ME HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1803.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Star Bharat
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1798.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Makkal TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1829.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Star Utsuv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1768.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Safari TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1818.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: J Movies us
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1799.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sur Cinma
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1797.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Janam tv2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1828.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Rishtey TV Europe
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1806.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: And TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1816.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Aajtak News
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1821.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Asianet Plus
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1827.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: And TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1754.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Channel 9
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1836.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Bangla Cinema UK
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1838.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: UTV Movies International
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1771.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Millennium TV Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1755.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Hollywood Classic
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1805.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Flowers USA
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1749.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Colors TV US
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1830.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Colors ME
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1824.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Maa Gold
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1800.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: &Picture HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1831.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: KTV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1817.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Rishtey UK 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1826.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Asian TV Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1820.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sony Six
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1835.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: polimer TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1834.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Tollywood TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1832.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ib tamil tv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1833.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Channel 52 HD Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1786.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sun TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1822.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sun TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1790.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ATN Bangla 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1825.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Asianet TV UK
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1804.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Channel I Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1765.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Housefull Action
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1773.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Saras TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1772.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sahara
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1763.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Ary Zindagi
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1751.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: 9xTashan
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1809.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: 9XM
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1814.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: 9X Jhakaas
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1810.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: UTV Movies US
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1807.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Discovery
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1808.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: UFX Channle
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1811.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Rishtey UK
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1801.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Banglavision
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1761.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ABP Ananda
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1762.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ET Now
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1759.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Cinema HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1750.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Prime AsiaTV PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1748.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Isaiaruvi
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1758.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Living Foodz
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1757.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Asianet Movies
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1756.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Maasaranga
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1747.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Surya Movies
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1788.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Hum World pk
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1789.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sangeet Marathi PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1787.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ATN Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1785.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ATN News
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1837.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sony us
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1795.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: My Cinma
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1796.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: UTV Movies
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2965.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Action
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2966.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sony TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2964.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sony Asia HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2963.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sony Sab
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2962.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: SET MAX
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2961.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Jaya Max
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2960.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sony Max HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2959.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Somoy News TV BN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2958.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Darshan24
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2957.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: NTV Europe
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2956.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: NTV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2955.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Movies Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2954.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Millinium TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2952.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Set Max AUD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2951.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Independent TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2950.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sangeet Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2949.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Ekattor TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2948.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Dhoom Music
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2947.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Colors Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2946.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Bangla TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2945.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ATN Music TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2944.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: SATV Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2943.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ABP Ananda Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2942.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Business
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2984.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Murasu TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2983.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN:  Anandmedia
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2986.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Super tv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2978.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Rupashi Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2977.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Channel S
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2979.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN:  News X
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2981.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: R PLUS
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2969.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: 25.Anana HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2980.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Kalaignar TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2982.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ETV Marathi
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2976.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Flowers TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2990.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Dheeran
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2974.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: IBC Tamil
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2971.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: NTV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2975.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Malabar time
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2985.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: MK TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2991.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Mohona TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2953.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Asianet News
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2988.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Kanada US
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2968.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sony 8 Bangla
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2987.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Sathiyam TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2989.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Shakthi TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2972.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Saram TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2970.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Vaanavil TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2973.ts
+#EXTINF:0 tvg-id="ext" group-title="india",------- Turkish ----------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2185.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: ZEE Punjabi PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3051.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Colors Kannada
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3038.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: 5aab TV PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3066.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: 9X Tashan PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3053.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Alpha ETC Punjabi PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3065.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Colors UK
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3049.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Suvarna TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3064.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Chakde TV PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3063.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Gurbani TV PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3062.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: JUS Punjabi TV PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3061.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Mashriq TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3050.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: SuvarnaTV UK
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3060.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: Udaya TV US
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3059.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: PBN Music PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3058.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: PTC Chakde PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3056.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: PTC News PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3055.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: PTC Punjabi PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3054.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: TV84 PN
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3052.ts
+#EXTINF:0 tvg-id="ext" group-title="india",LN: 1 TV AFG
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/3048.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Box Office 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2167.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Box Office 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2175.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Box Office 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2176.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Movies Famly HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2020.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sony Movie Channel HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2156.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Showtime Channel 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2160.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Hallmark Channel Film HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2023.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinemax Nostalgia HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2162.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinema TV 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2024.ts
+#EXTINF:0 tvg-id="FilmBox.tr" group-title="Turkish",TR: Filmbox HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2025.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Movies  IZ HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2028.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Movies Smart Gold HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2026.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Movie Max premier HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2027.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Universal Channel HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2163.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinema TV 1001 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2022.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Movies Smart Platin HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2018.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Movies Smart Famly HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2033.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Movies Smart Action HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2017.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Cine Star Vizyon HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2165.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: MagicBox Aksiyon HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2157.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: MagicBox Komedi HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2166.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: MaGicBoX Yerli HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2032.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: MagicBox Western HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2168.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinema TV Aile HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2169.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Hallmark Channel 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2019.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: 13th Street HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2161.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Yesilçam 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2021.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Moviemax Türk HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2016.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: By Bravo HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2158.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Hallmark Channel 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2164.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Turk Max Gurme HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2029.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Movies Premier HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2159.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinema Yesilcam HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2177.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinema tv HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2178.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinema Junior HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2179.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinema Komedi HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2181.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinetivikarnaval 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2180.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinetivikarnaval 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2182.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinetivi 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2183.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinetivi 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2184.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinetiviadrenalin 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1936.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinetiviadrenalin 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1935.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Dizi TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1934.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: MGM Channel HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1933.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Movies Action HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2030.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: MaGic BoX 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1974.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: MaGic BoX 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1975.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: MaGic BoX 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1976.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Cinemax 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1967.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Sinema TV Aksiyon HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1968.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Showtime Channel 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1969.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Cinemax 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1970.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Box Office 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1941.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Box Office 7 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2003.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Box Office 5 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1942.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Box Office 6 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1943.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Box Office 8 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1948.ts
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="Turkish",TR: Bein Sport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2002.ts
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="Turkish",TR: Bein Sport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2001.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="Turkish",TR: Bein Sport 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2000.ts
+#EXTINF:0 tvg-id="NTVSpor.tr" group-title="Turkish",TR: NTV Spor
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1996.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Tivibu Spor 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1997.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Tivibu Spor 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1965.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Tivibu Spor 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2170.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Tivibu Spor 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2171.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Smart Sport HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1998.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Box Office 9 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1964.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Eurosport 2 Avrupa
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1959.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Bursa Spor tv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1999.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: IDMAN TV AZER
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2015.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: TRT Sports
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1981.ts
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Turkish",TR: TRT 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1977.ts
+#EXTINF:0 tvg-id="TRTOkul.tr" group-title="Turkish",TR: TRT Okul
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1939.ts
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Turkish",TR: TRT HABER HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1982.ts
+#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Turkish",TR: TRT BELGESEL
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1937.ts
+#EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="Turkish",TR: TRT Diyanet
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1938.ts
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="Turkish",TR: TRT COCUK
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1940.ts
+#EXTINF:0 tvg-id="TRTturk.tr" group-title="Turkish",TR: TRT Turk
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1979.ts
+#EXTINF:0 tvg-id="TRTMuzik.tr" group-title="Turkish",TR: TRT Muzik
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1971.ts
+#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Turkish",TR: TRT AVAZ
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1983.ts
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Turkish",TR: Kanal D
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1993.ts
+#EXTINF:0 tvg-id="KanalA.tr" group-title="Turkish",TR: Kanal A
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1994.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Kanal Urfa
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1945.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Kanal Turk
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1947.ts
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Turkish",TR: Kanal 7
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1961.ts
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Turkish",TR: Kanal 7 Avrupa
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1958.ts
+#EXTINF:0 tvg-id="ATV.tr" group-title="Turkish",TR: ATV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1978.ts
+#EXTINF:0 tvg-id="AtvAvrupa.tr" group-title="Turkish",TR: ATV Avrupa
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1957.ts
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Turkish",TR: Show TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1990.ts
+#EXTINF:0 tvg-id="ShowTurk.tr" group-title="Turkish",TR: Show Turk
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1989.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Tarsusguneyt
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2174.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: SkyTurk 360
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2172.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Breket TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2173.ts
+#EXTINF:0 tvg-id="PlanetCocuk.tr" group-title="Turkish",TR: Planet Cocuk
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1986.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Power Turk
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1946.ts
+#EXTINF:0 tvg-id="CNNTURK.tr" group-title="Turkish",TR: CNN TURK
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1995.ts
+#EXTINF:0 tvg-id="Tv2.tr" group-title="Turkish",TR: TV 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1960.ts
+#EXTINF:0 tvg-id="TV8.tr" group-title="Turkish",TR: TV8
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1980.ts
+#EXTINF:0 tvg-id="Start.tr" group-title="Turkish",TR: Star tv HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1987.ts
+#EXTINF:0 tvg-id="Fox.tr" group-title="Turkish",TR: Fox TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1988.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Fox Crime tv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2011.ts
+#EXTINF:0 tvg-id="FX.tr" group-title="Turkish",TR: FX TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2010.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Life Time
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2009.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Euro D
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1952.ts
+#EXTINF:0 tvg-id="EgeTV.tr" group-title="Turkish",TR: EGE TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2014.ts
+#EXTINF:0 tvg-id="TJKTV.tr" group-title="Turkish",TR: TJK TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2008.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Semerkant tv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2013.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: National Geo Wild HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1985.ts
+#EXTINF:0 tvg-id="NatGeoHD.tr" group-title="Turkish",TR: National Geographic HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1984.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: National Geo People HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2006.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Animal Planet HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1955.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: History Channle
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2007.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Discovery Channle
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2005.ts
+#EXTINF:0 tvg-id="CartoonNetwork.tr" group-title="Turkish",TR: Cartoon NetWork
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1953.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Disney Channle
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1992.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: DA Vinci Learning
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2012.ts
+#EXTINF:0 tvg-id="WorldTravelChannel.tr" group-title="Turkish",TR: World Travel Channel
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1956.ts
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="Turkish",TR: Beyaz TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1951.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Istanbul 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1991.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: TV Kayseri
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2004.ts
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Turkish",TR: TGRT Haber
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1949.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Teledunya Info
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1962.ts
+#EXTINF:0 tvg-id="MinikaGo.tr" group-title="Turkish",TR: Minika Go
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1963.ts
+#EXTINF:0 tvg-id="DreamTurk.tr" group-title="Turkish",TR: Dream Turk
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1944.ts
+#EXTINF:0 tvg-id="A2.tr" group-title="Turkish",TR: A2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1950.ts
+#EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="Turkish",TR: Bloomberg HT HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2031.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: TV 41
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1954.ts
+#EXTINF:0 tvg-id="KralTV.tr" group-title="Turkish",TR: Kral TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1966.ts
+#EXTINF:0 tvg-id="KralPop.tr" group-title="Turkish",TR: Kral Pop
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1972.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: Hilal TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1973.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",-------- French ---------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/418.ts
+#EXTINF:0 tvg-id="ext" group-title="Turkish",TR: BeIN Box Office 10 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/2186.ts
+
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="French",FR: Beinsport 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/366.ts
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="French",FR: Beinsport 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/365.ts
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="French",FR: Beinsport 3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/364.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Bein Sport Max 4
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/397.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Bein Sport Max 5
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/398.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Bein Sport Max 6
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/399.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Bein Sport Max 7
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/400.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Bein Sport Max 8
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/401.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Bein Sport Max 9
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/402.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Bein Sport Max 10
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/403.ts
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="French",FR: Eurosport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/356.ts
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="French",FR: Eurosport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/355.ts
+#EXTINF:0 tvg-id="SFRSport1.fr" group-title="French",FR: SFR Sport 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/381.ts
+#EXTINF:0 tvg-id="SFRSport2.fr" group-title="French",FR: SFR Sport 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/382.ts
+#EXTINF:0 tvg-id="SFRSport3.fr" group-title="French",FR: SFR Sport 3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/383.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: OL tv
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/373.ts
+#EXTINF:0 tvg-id="Foot24.fr" group-title="French",FR: Foot+ 24
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/351.ts
+#EXTINF:0 tvg-id="Infosport.fr" group-title="French",FR: InfoSport+
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/353.ts
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="French",FR: Canal+ Sport
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/350.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Ma Chaine Sport (MCS) HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/352.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: A la Carte 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/305.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: A la Carte 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/307.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: A la Carte 3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/320.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: A la Carte 4
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/325.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: A la Carte 5
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/363.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: A la Carte 6
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/362.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: A la Carte 7
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/361.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: A la Carte 8
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/360.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: A la Carte 9
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/359.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: A la Carte 10
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/358.ts
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="French",FR: Canal+ Cinema
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/314.ts
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="French",FR: Canal+ Family
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/306.ts
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="French",FR: Cine+ Emotion
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/310.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Canal+ Serie
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/317.ts
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="French",FR: Canal+ Decale
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/315.ts
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="French",FR: Cine+ Classic
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/308.ts
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="French",FR: Cine+ Premier
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/313.ts
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="French",FR: Cine+ Frisson
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/311.ts
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="French",FR: Cine+ Famiz
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/312.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Canal +
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/328.ts
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="French",FR: Canal J
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/290.ts
+#EXTINF:0 tvg-id="CinePolar.fr" group-title="French",FR: Cine Polar
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/374.ts
+#EXTINF:0 tvg-id="CineFX.fr" group-title="French",FR: Cine FX
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/379.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Cine Comédie+HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/380.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: SÃ©rie Club HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/331.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: SCIENCES & VIE
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/354.ts
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="French",FR: Paris Premiere HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/377.ts
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="French",FR: OCS Max HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/341.ts
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="French",FR: OCS Choc HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/345.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: OCS GÃ©ants HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/337.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Voyage TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/304.ts
+#EXTINF:0 tvg-id="TF1.fr" group-title="French",FR: TF1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/285.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: I-Tele
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/340.ts
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="French",FR: RMC Decouverte
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/336.ts
+#EXTINF:0 tvg-id="Eentertainment.fr" group-title="French",FR: E! entertainment
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/372.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: TV5 Monde
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/333.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: TVBreish
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/309.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: C 8
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/316.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: C Star
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/338.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: 13 rue HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/347.ts
+#EXTINF:0 tvg-id="Boing.fr" group-title="French",FR: Boing
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/295.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: TÃ©va HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/330.ts
+#EXTINF:0 tvg-id="Syfy.fr" group-title="French",FR: Syfy HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/348.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Weo TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/319.ts
+#EXTINF:0 tvg-id="Action.fr" group-title="French",FR: Action HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/335.ts
+#EXTINF:0 tvg-id="RTL9.fr" group-title="French",FR: RTL 9 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/334.ts
+#EXTINF:0 tvg-id="Animaux.fr" group-title="French",FR: Animaux HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/303.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Planete AE+C
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/327.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: PlanÃ¨te + HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/326.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: NatIional Geo HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/324.ts
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="French",FR: Discovery Science HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/323.ts
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="French",FR: Boomerang
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/321.ts
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="French",FR: Disney Cinemagic
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/322.ts
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="French",FR: Disney Channel
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/342.ts
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="French",FR: Teletoon+
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/318.ts
+#EXTINF:0 tvg-id="M6.fr" group-title="French",FR: M6 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/291.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: France 0
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/301.ts
+#EXTINF:0 tvg-id="France2.fr" group-title="French",FR: France 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/300.ts
+#EXTINF:0 tvg-id="France3.fr" group-title="French",FR: France 3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/299.ts
+#EXTINF:0 tvg-id="France4.fr" group-title="French",FR: France 4
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/298.ts
+#EXTINF:0 tvg-id="France5.fr" group-title="French",FR: France 5
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/297.ts
+#EXTINF:0 tvg-id="France24.fr" group-title="French",FR: France 24
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/349.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: TCM HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/296.ts
+#EXTINF:0 tvg-id="NT1.fr" group-title="French",FR: NT1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/293.ts
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="French",FR: Nrj 12
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/294.ts
+#EXTINF:0 tvg-id="6ter.fr" group-title="French",FR: 6Ter HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/292.ts
+#EXTINF:0 tvg-id="Mangas.fr" group-title="French",FR: Manga
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/343.ts
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="French",FR: Ushuaia TV HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/329.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Rts Un
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/289.ts
+#EXTINF:0 tvg-id="Gulli.fr" group-title="French",FR: Gulli
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/286.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Music MFM TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/368.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Toute l Histoire
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/332.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: BFM Business
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/344.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Assemble Nationale
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/369.ts
+#EXTINF:0 tvg-id="Numero23.fr" group-title="French",FR: Numero 23
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/302.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Cherie 25
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/288.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: W9
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/357.ts
+#EXTINF:0 tvg-id="ARTE.fr" group-title="French",FR: Arte
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/287.ts
+#EXTINF:0 tvg-id="LCI.fr" group-title="French",FR: LCi
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/346.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Rire TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/375.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Lequipe 21
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/370.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: HD 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/371.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Enorme TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/367.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: Alsace20
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/376.ts
+#EXTINF:0 tvg-id="ext" group-title="French",FR: AB1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/378.ts
+#EXTINF:0 tvg-id="RTSDeux.ch" group-title="French",FR: RTS Deux
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/339.ts
+#EXTINF:0 tvg-id="ext" group-title="French",BE: Cinema 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/396.ts
+#EXTINF:0 tvg-id="ext" group-title="French",BE: Cinema 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/395.ts
+#EXTINF:0 tvg-id="ext" group-title="French",BE: Cinema Kids
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/392.ts
+#EXTINF:0 tvg-id="Vtm.be" group-title="French",BE: VTM HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/389.ts
+#EXTINF:0 tvg-id="vitaya.be" group-title="French",BE: Vitaya
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/390.ts
+#EXTINF:0 tvg-id="VijfTV.be" group-title="French",BE: Vijf
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/391.ts
+#EXTINF:0 tvg-id="PlugRTL.be" group-title="French",BE: Plug RTL
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/384.ts
+#EXTINF:0 tvg-id="ext" group-title="French",BE: La télé X
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/385.ts
+#EXTINF:0 tvg-id="ClubRTL.be" group-title="French",BE: Club RTL
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/386.ts
+#EXTINF:0 tvg-id="acht.be" group-title="French",BE: Acht
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/388.ts
+#EXTINF:0 tvg-id="2be.be" group-title="French",BE: 2BE HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/387.ts
+#EXTINF:0 tvg-id="ext" group-title="French",BE: Kadet
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/393.ts
+#EXTINF:0 tvg-id="ext" group-title="French",BE: BX1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/394.ts
+#EXTINF:0 tvg-id="ext" group-title="French",----------- EX-YU ----------
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/284.ts
+
+#EXTINF:0 tvg-id="een.be" group-title="Holanda",BE: Een HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/730.ts
+#EXTINF:0 tvg-id="Canvas.be" group-title="Holanda",BE: Canvas HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/731.ts
+#EXTINF:0 tvg-id="Ned1.nl" group-title="Holanda",NL: NPO 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/715.ts
+#EXTINF:0 tvg-id="Ned2.nl" group-title="Holanda",NL: NPO 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/716.ts
+#EXTINF:0 tvg-id="Ned3.nl" group-title="Holanda",NL: NPO 3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/717.ts
+#EXTINF:0 tvg-id="RTL4.nl" group-title="Holanda",NL: RTL 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/699.ts
+#EXTINF:0 tvg-id="RTL5.nl" group-title="Holanda",NL: RTL 5 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/695.ts
+#EXTINF:0 tvg-id="NET5.nl" group-title="Holanda",NL: NET 5 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/698.ts
+#EXTINF:0 tvg-id="SBS6.nl" group-title="Holanda",NL: SBS 6 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/701.ts
+#EXTINF:0 tvg-id="RTL7.nl" group-title="Holanda",NL: RTL 7 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/696.ts
+#EXTINF:0 tvg-id="RTL8.nl" group-title="Holanda",NL: RTL 8 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/697.ts
+#EXTINF:0 tvg-id="SBS9.nl" group-title="Holanda",NL: SBS 9
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/724.ts
+#EXTINF:0 tvg-id="FoxSport1.nl" group-title="Holanda",NL: Fox Sports 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/710.ts
+#EXTINF:0 tvg-id="FOXsport2.nl" group-title="Holanda",NL: Fox Sports 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/711.ts
+#EXTINF:0 tvg-id="FoxSport3.nl" group-title="Holanda",NL: Fox Sports 3
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/712.ts
+#EXTINF:0 tvg-id="FOXsport4.nl" group-title="Holanda",NL: Fox Sports 4
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/713.ts
+#EXTINF:0 tvg-id="FOXSportsEredivisie5.nl" group-title="Holanda",NL: Fox Sports 5
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/714.ts
+#EXTINF:0 tvg-id="FoxSports6.nl" group-title="Holanda",NL: Fox Sports 6
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/743.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: EuroSport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/734.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: EuroSport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/417.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Sport 1 Voetbal HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/709.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Sport 1 Select HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/708.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Sport 1 Racing
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/707.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Sport Extra 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/735.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Sport Extra 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/736.ts
+#EXTINF:0 tvg-id="Film1Action.nl" group-title="Holanda",NL: Film 1 Action
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/721.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Film 1 Comedy and Kids
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/722.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Film1 Spotlight
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/702.ts
+#EXTINF:0 tvg-id="Film1Premiere.nl" group-title="Holanda",NL: Film1 Premiere HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/723.ts
+#EXTINF:0 tvg-id="Film1Sundance.nl" group-title="Holanda",NL: Film 1 Sundance
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/414.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Veronica / Disney XD HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/726.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: NPO Zappelin Xtra/Humor TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/739.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Discovery ID
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/733.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Discovery Channle
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/704.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Discovery Showcase HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/732.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: National Geographic
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/725.ts
+#EXTINF:0 tvg-id="NGCWild.be" group-title="Holanda",NL: Nat Geo Wild HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/416.ts
+#EXTINF:0 tvg-id="AnimalPlanet.nl" group-title="Holanda",NL: Animal Planet
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/410.ts
+#EXTINF:0 tvg-id="CartoonNetwork.nl" group-title="Holanda",NL: Cartoon Network
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/413.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Disney Channel
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/706.ts
+#EXTINF:0 tvg-id="Nickelodeon.nl" group-title="Holanda",NL: Nickelodeon
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/727.ts
+#EXTINF:0 tvg-id="Boomerang.nl" group-title="Holanda",NL: Boomerang
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/412.ts
+#EXTINF:0 tvg-id="BabyTV.nl" group-title="Holanda",NL: Baby TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/411.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Spike
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/415.ts
+#EXTINF:0 tvg-id="ComedyCentral.nl" group-title="Holanda",NL: Comedy Central
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/703.ts
+#EXTINF:0 tvg-id="mtv.nl" group-title="Holanda",NL: MTV Nederland
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/737.ts
+#EXTINF:0 tvg-id="RTLLounge.nl" group-title="Holanda",NL: RTL Lounge
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/740.ts
+#EXTINF:0 tvg-id="RTLCrime.nl" group-title="Holanda",NL: RTL CRIME
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/705.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: HBO 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/718.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: HBO 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/719.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: HBO 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/720.ts
+#EXTINF:0 tvg-id="FOX.nl" group-title="Holanda",NL: Fox
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/700.ts
+#EXTINF:0 tvg-id="TLC.nl" group-title="Holanda",NL: TLC
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/728.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: Xite Awrds
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/729.ts
+#EXTINF:0 tvg-id="ext" group-title="Holanda",NL: 24 Kitchen
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/409.ts
+#EXTINF:0 tvg-id="ShortsTV.nl" group-title="Holanda",NL: Shorts TV
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/744.ts
+#EXTINF:0 tvg-id="RTVNoord.nl" group-title="Holanda",NL: RTV Noord
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/741.ts
+#EXTINF:0 tvg-id="OmropFryslan.nl" group-title="Holanda",NL: Omroep Fryslan
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/738.ts
+#EXTINF:0 tvg-id="OmroepZeeland.nl" group-title="Holanda",NL: Omroep Zeeland
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/742.ts
+
+#EXTINF:0 tvg-id="SportKlub1.rs" group-title="Ex-Yu",AL: Sport Klub 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/268.ts
+#EXTINF:0 tvg-id="SportKlub2.rs" group-title="Ex-Yu",AL: Sport Klub 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/267.ts
+#EXTINF:0 tvg-id="SportKlub3.rs" group-title="Ex-Yu",AL: Sport Klub 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/266.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: SuperSport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/263.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: SuperSport 3 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/262.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: SuperSport 4 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/261.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: SuperSport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/264.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: ArenaSport 1 HD Srb
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/271.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: ArenaSport 2 HD Srb
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/270.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: ArenaSport 3 HD Srb
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/269.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: ArenaSport 4 HD Srb
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/242.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: ArenaSport 5 HD Srb
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/265.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: ArenaSport 4 HD HR
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/280.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: ArenaSport 3 HD HR
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/281.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: ArenaSport 2 HD HR
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/282.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: ArenaSport 1 HD HR
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/283.ts
+#EXTINF:0 tvg-id="esp-hd" group-title="Ex-Yu",AL: Eurosport 1 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/219.ts
+#EXTINF:0 tvg-id="esp2-hd" group-title="Ex-Yu",AL: Eurosport 2 HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/218.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: K Sport 1
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1383.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: K Sport 2
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1384.ts
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Ex-Yu",AL: Film Thriller
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/258.ts
+#EXTINF:0 tvg-id="ext" group-title="Ex-Yu",AL: Film Nj HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/259.ts
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Ex-Yu",AL: Film Komedi
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/257.ts
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="Ex-Yu",AL: Film Autor
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/256.ts
+#EXTINF:0 tvg-id="FilmHits.al" group-title="Ex-Yu",AL: Film Hits
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/255.ts
+#EXTINF:0 tvg-id="FilmDyHD.al" group-title="Ex-Yu",AL: Film Dy HD
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/260.ts
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Ex-Yu",AL: Film Dram
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/254.ts
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Ex-Yu",AL: Cufo
+http://cdn.ipsatpro.biz:8080/live/1903z2vr129272ja/1903z2vr129272ja/1331.ts
+#EXTINF:0 tvg-id="FilmAksion.al" group
